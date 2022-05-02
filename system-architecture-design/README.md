@@ -10,3 +10,7 @@ Most of the drawings can be found here: https://excalidraw.com/#json=G_J2h5z9IjU
 ## Oracle - API communication
 
 ![Oracle API communication](oracle-api-arch.png)
+
+## Service arch of the API and some endpoints
+
+![Service arch of the API](oracle-api-arch-and-end.png)
